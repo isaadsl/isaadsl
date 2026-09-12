@@ -13,11 +13,6 @@
 
 <br/>
 
-<img src="./jinx.arcane.png" alt="" width="49%" />
-<img src="./widget.png.png" alt="" width="49%" />
-
-<br/>
-
 </div>
 
 <!-- LINKS -->
@@ -31,10 +26,10 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/lines/jinx.arcane.png" width="100%" />
 
 <!-- Sobre -->
-## ⚙ Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse principal em **Big Data**, **banco de dados** e **inteligência artificial**.
 
@@ -43,7 +38,7 @@ Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScri
 <br/>
 
 <!-- Tecnologias -->
-## 🜲 Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -60,29 +55,28 @@ Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScri
 <br/>
 
 <!-- Github -->
-## ⌁ Estatísticas
+## Estatísticas
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=isaadsl&show_icons=true&hide_border=true&bg_color=05050B&title_color=6272C9&icon_color=8E3FA8&text_color=D6D6E4&border_radius=8" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaadsl&layout=compact&hide_border=true&bg_color=05050B&title_color=6272C9&text_color=D6D6E4&border_radius=8" width="35%" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaadsl&hide_border=true&background=05050B&stroke=8E3FA8&ring=6272C9&fire=CE4DE7&currStreakLabel=D6D6E4&sideLabels=D6D6E4&dates=5A5A6E" width="60%" />
+<img src="https://streak-stats.demolab.com?user=isaadsl&hide_border=true&background=05050B&stroke=8E3FA8&ring=6272C9&fire=CE4DE7&currStreakLabel=D6D6E4&sideLabels=D6D6E4&dates=5A5A6E" width="60%" />
 
 </div>
 
 <br/>
 
 <!-- Projetos -->
-## ✦ Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr>
 <td width="100%">
 
-### 🜲 sobrou
+### sobrou
 
 Aplicativo completo de planejamento financeiro pessoal, com contas individuais, banco de dados na nuvem (Supabase) e um Assistente Financeiro com Inteligência Artificial integrado aos dados do usuário.
 
@@ -120,45 +114,19 @@ Recria o efeito Chidori do anime Naruto, permitindo que qualquer pessoa abra o s
 <tr>
 <td width="50%">
 
-**Site-Rita-lee**
-Modelo público de site com foco em estrutura e apresentação de conteúdo.
-
-`JavaScript` · `HTML5/CSS3`
-
-**[→ Acessar repositório](https://github.com/isaadsl/Site-Rita-lee)**
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
 <br/>
 
-<!-- Repositorios -->
-## ⌗ Repositórios
-
-<div align="center">
-
-![Repos](https://github-readme-stats.vercel.app/api/pin/?username=isaadsl&repo=sobrou&bg_color=05050B&title_color=6272C9&icon_color=8E3FA8&text_color=D6D6E4&border_radius=8&hide_border=true)
-![Repos](https://github-readme-stats.vercel.app/api/pin/?username=isaadsl&repo=Quiz-Educacional&bg_color=05050B&title_color=6272C9&icon_color=8E3FA8&text_color=D6D6E4&border_radius=8&hide_border=true)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/lines/widget.png.png" width="100%" />
 
 <!-- Contato -->
-## ⟡ Contato
+## Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Meu%20contato-05050B?style=for-the-badge&logo=linkedin&logoColor=6272C9&labelColor=05050B)](https://linkedin.com/in/isabela-barbosa-5a1933347)
 [![Email](https://img.shields.io/badge/Email-05050B?style=for-the-badge&logo=gmail&logoColor=8E3FA8&labelColor=05050B)](mailto:isabelabpereira2008@gmail.com)
 
-<br/><br/>
+<br/>
 
 <sub>© Isabela Barbosa Pereira</sub>
 
