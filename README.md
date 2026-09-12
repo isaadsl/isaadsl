@@ -5,7 +5,7 @@
 
 <br/>
 
-### Isabela Barbosa Pereira
+<h1><p>Isabela Barbosa Pereira</p></h1>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=900&color=CE4DE7&background=00000000&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estudante+de+SQL;Estudante+de+Power+BI;Estudante+de+Big+Data;Estudante+de+Python;Estudante+de+Linguagem+C;Estudante+de+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
@@ -29,12 +29,12 @@
 <!-- Sobre -->
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse principal em **Big Data**, **banco de dados** e **inteligência artificial**. Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScript**, aplicando esse conhecimento em projetos pessoais do backend à interface, sempre buscando entender o sistema como um todo.
 
-<img src="widget.png.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
-
 <br/>
 <!-- Tecnologias -->
 <div align="center">
-<h1><p>Tecnologias</p></h1>
+<h1><p>Tecnologias Utiizadas</p></h1>
+  
+<img src="widget.png.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
 
 ![Python](https://img.shields.io/badge/Python-05050B?style=flat-square&logo=python&logoColor=6272C9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05050B?style=flat-square&logo=javascript&logoColor=8E3FA8)
@@ -50,7 +50,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse princ
 
 <!-- Github -->
 <div align="center">
-<h1><p>Estatísticas</p></h1>
+<h1><p>Estatísticas de Perfil</p></h1>
 
 <div align="right">
   <img src="jinx.arcane.png" align="left" width="220" style="margin-right: 20px;">
