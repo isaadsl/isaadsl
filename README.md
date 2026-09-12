@@ -8,7 +8,7 @@
 ### Isabela Barbosa Pereira
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=900&color=CE4DE7&background=00000000&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estudando+SQL;Estudando+Power+BI;Estudando+Big+Data;Estudando+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=900&color=CE4DE7&background=00000000&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estudante+de+SQL;Estudante+de+Power+BI;Estudante+de+Big+Data;Estudante+de+Python;Estudante+de+Linguagem+C;Estudante+de+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,21 +26,15 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/lines/jinx.arcane.png" width="100%" />
-
 <!-- Sobre -->
-## Sobre mim
-
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse principal em **Big Data**, **banco de dados** e **inteligência artificial**.
 
 Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScript**, aplicando esse conhecimento em projetos pessoais do backend à interface, sempre buscando entender o sistema como um todo.
 
 <br/>
-
 <!-- Tecnologias -->
-## Tecnologias
-
 <div align="center">
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-05050B?style=flat-square&logo=python&logoColor=6272C9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05050B?style=flat-square&logo=javascript&logoColor=8E3FA8)
@@ -55,9 +49,29 @@ Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScri
 <br/>
 
 <!-- Github -->
+<div align="center">
 ## Estatísticas
 
-<div align="left">
+<p align="right">
+  <img src="jinx.arcane.png" align="left" width="220" style="margin-right: 20px;">
+  <img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=#942BE7&ring=#942BE7&fire=#5165B2&currStreakNum=#942BE7&sideNums=#942BE7&currStreakLabel=#942BE7&sideLabels=#942BE7&dates=#942BE7" height="170" />
+  <br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=isaadsl&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=#942BE7&text_color=#942BE7&icon_color=#5165B2" height="170" />
+</p>
+
+<br clear="left">
+
+<br clear="left">
+
+<br>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaadsl-0&bg_color=000000&color=#942BE7&line=#5165B2&point=#942BE7&area=true&hide_border=true"/>
+</p>
+
+</div>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)
 
@@ -70,6 +84,7 @@ Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScri
 <br/>
 
 <!-- Projetos -->
+<div align="center">
 ## Projetos em destaque
 
 <table>
@@ -80,7 +95,7 @@ Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScri
 
 Aplicativo completo de planejamento financeiro pessoal, com contas individuais, banco de dados na nuvem (Supabase) e um Assistente Financeiro com Inteligência Artificial integrado aos dados do usuário.
 
-`JavaScript` · `HTML5/CSS3` · `Supabase` · `Chatbot` · API
+`JavaScript` · `HTML5/CSS3` · `Supabase` · `Chatbot` · 'API'
 
 **[→ Acessar repositório](https://github.com/isaadsl/sobrou)**
 
@@ -95,7 +110,7 @@ Aplicativo completo de planejamento financeiro pessoal, com contas individuais, 
 **Quiz Educacional**
 Plataforma educacional interativa de quiz para desenvolvimento de habilidades em Tecnologia da Informação e Engenharia de Prompt, com dashboard de desempenho, gráficos de evolução e trilha pessoal.
 
-`JavaScript` · `HTML5/CSS3` · `SQLite` · Open IA 
+`JavaScript` · `HTML5/CSS3` · `SQLite` · 'Open IA'
 
 **[→ Acessar repositório](https://github.com/isaadsl/Quiz-Educacional)**
 
@@ -118,13 +133,7 @@ Recria o efeito Chidori do anime Naruto, permitindo que qualquer pessoa abra o s
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/lines/widget.png.png" width="100%" />
 
-<!-- Contato -->
-## Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Meu%20contato-05050B?style=for-the-badge&logo=linkedin&logoColor=6272C9&labelColor=05050B)](https://linkedin.com/in/isabela-barbosa-5a1933347)
-[![Email](https://img.shields.io/badge/Email-05050B?style=for-the-badge&logo=gmail&logoColor=8E3FA8&labelColor=05050B)](mailto:isabelabpereira2008@gmail.com)
+</div>
 
 <br/>
 
