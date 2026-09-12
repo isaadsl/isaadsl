@@ -34,7 +34,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse princ
 <div align="center">
 <h1><p>Tecnologias Utiizadas</p></h1>
   
-<img src="widget.png.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+</td>
+<td width="20%" align="left">
+<img src="./widget.png.png" width="180">
+</td>
+</tr>
+</table>
 
 ![Python](https://img.shields.io/badge/Python-05050B?style=flat-square&logo=python&logoColor=6272C9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05050B?style=flat-square&logo=javascript&logoColor=8E3FA8)
@@ -52,9 +57,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse princ
 <div align="center">
 <h1><p>Estatísticas de Perfil</p></h1>
 
-<div align="right">
-  <img src="jinx.arcane.png" align="left" width="220" style="margin-right: 20px;">
+<table>
+<tr>
+<td width="20%" align="left">
+<img src="./jinx.arcane.png" width="180" style="border-radius: 15px;">
+</td>
+<td width="60%" align="left">
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)
 
 </div>
