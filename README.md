@@ -19,8 +19,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-05050B?style=for-the-badge&logo=linkedin&logoColor=6272C9&labelColor=05050B)](https://linkedin.com/in/isabela-barbosa-5a1933347)
-[![Portfolio](https://img.shields.io/badge/GitHub-05050B?style=for-the-badge&logo=github&logoColor=8E3FA8&labelColor=05050B)](https://github.com/isaadsl)
-[![Email](https://img.shields.io/badge/Email-05050B?style=for-the-badge&logo=gmail&logoColor=6272C9&labelColor=05050B)](mailto:isabelabpereira2008@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-05050B?style=for-the-badge&logo=github&logoColor=8E3FA8&labelColor=05050B)](https://github.com/isaadsl)
+[![Email](https://img.shields.io/badge/Email-05050B?style=for-the-badge&logo=gmail&logoColor=6272C9&labelColor=05050B)](https://mail.google.com/mail/?view=cm&fs=1&to=isabelabpereira2008@gmail.com)
 
 </div>
 
