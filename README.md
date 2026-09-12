@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="assets/banner.png" alt="Banner" width="100%" />
+<img src="banner.png" alt="Banner" width="100%" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/lines/rainbow.png" width="100%" />
 
 <!-- ABOUT -->
 ## ⚙ Sobre mim
@@ -117,7 +117,7 @@ Modelo público de site com foco em estrutura e apresentação de conteúdo.
 
 `JavaScript` · `HTML5/CSS3`
 
-**[→ Acessar repositório](https://github.com/i  saadsl/Site-Rita-lee)**
+**[→ Acessar repositório](https://github.com/isaadsl/Site-Rita-lee)**
 
 </td>
 <td width="50%">
@@ -140,14 +140,14 @@ Modelo público de site com foco em estrutura e apresentação de conteúdo.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/lines/rainbow.png" width="100%" />
 
 <!-- CONTACT -->
 ## ⟡ Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Vamos%20conversar-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=8A6FFF&labelColor=0A0A0F)](https://linkedin.com/in/isabela-barbosa-5a1933347)
+[![LinkedIn](https://img.shields.io/badge/-Meu%20contato-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=8A6FFF&labelColor=0A0A0F)](https://linkedin.com/in/isabela-barbosa-5a1933347)
 [![Email](https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0A0A0F)](mailto:isabelabpereira2008@gmail.com)
 
 <br/><br/>
