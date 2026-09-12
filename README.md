@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="./banner.arcane.png" alt="Banner" width="100%" />
+<img src="./banner.logo.png" alt="Banner" width="100%" />
 
 <br/>
 
