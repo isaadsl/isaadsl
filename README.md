@@ -27,14 +27,14 @@
 <br/>
 
 <!-- Sobre -->
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse principal em **Big Data**, **banco de dados** e **inteligência artificial**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse principal em **Big Data**, **banco de dados** e **inteligência artificial**. Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScript**, aplicando esse conhecimento em projetos pessoais do backend à interface, sempre buscando entender o sistema como um todo.
 
-Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScript**, aplicando esse conhecimento em projetos pessoais do backend à interface, sempre buscando entender o sistema como um todo.
+<img src="widget.png.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
 
 <br/>
 <!-- Tecnologias -->
 <div align="center">
-## Tecnologias
+<h1><p>Tecnologias</p></h1>
 
 ![Python](https://img.shields.io/badge/Python-05050B?style=flat-square&logo=python&logoColor=6272C9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05050B?style=flat-square&logo=javascript&logoColor=8E3FA8)
@@ -50,93 +50,11 @@ Atualmente estudo **Python**, **SQL**, **Big Data**, **HTML5/CSS3** e **JavaScri
 
 <!-- Github -->
 <div align="center">
-## Estatísticas
+<h1><p>Estatísticas</p></h1>
 
-<p align="right">
+<div align="right">
   <img src="jinx.arcane.png" align="left" width="220" style="margin-right: 20px;">
-  <img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=#942BE7&ring=#942BE7&fire=#5165B2&currStreakNum=#942BE7&sideNums=#942BE7&currStreakLabel=#942BE7&sideLabels=#942BE7&dates=#942BE7" height="170" />
-  <br><br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=isaadsl&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=#942BE7&text_color=#942BE7&icon_color=#5165B2" height="170" />
-</p>
 
-<br clear="left">
-
-<br clear="left">
-
-<br>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaadsl-0&bg_color=000000&color=#942BE7&line=#5165B2&point=#942BE7&area=true&hide_border=true"/>
-</p>
-
-</div>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=isaadsl&hide_border=true&background=05050B&stroke=8E3FA8&ring=6272C9&fire=CE4DE7&currStreakLabel=D6D6E4&sideLabels=D6D6E4&dates=5A5A6E" width="60%" />
-
-</div>
-
-<br/>
-
-<!-- Projetos -->
-<div align="center">
-## Projetos em destaque
-
-<table>
-<tr>
-<td width="100%">
-
-### sobrou
-
-Aplicativo completo de planejamento financeiro pessoal, com contas individuais, banco de dados na nuvem (Supabase) e um Assistente Financeiro com Inteligência Artificial integrado aos dados do usuário.
-
-`JavaScript` · `HTML5/CSS3` · `Supabase` · `Chatbot` · 'API'
-
-**[→ Acessar repositório](https://github.com/isaadsl/sobrou)**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-**Quiz Educacional**
-Plataforma educacional interativa de quiz para desenvolvimento de habilidades em Tecnologia da Informação e Engenharia de Prompt, com dashboard de desempenho, gráficos de evolução e trilha pessoal.
-
-`JavaScript` · `HTML5/CSS3` · `SQLite` · 'Open IA'
-
-**[→ Acessar repositório](https://github.com/isaadsl/Quiz-Educacional)**
-
-</td>
-<td width="50%">
-
-**ChidoriHtml**
-Recria o efeito Chidori do anime Naruto, permitindo que qualquer pessoa abra o site, acesse a câmera e veja o efeito elétrico em tempo real na própria mão.
-
-`JavaScript` · `HTML5/CSS3` · 'MediaPipe Hands'
-
-**[→ Acessar repositório](https://github.com/isaadsl/ChidoriHtml)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/lines/widget.png.png" width="100%" />
-
-</div>
-
-<br/>
-
-<sub>© Isabela Barbosa Pereira</sub>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)
 
 </div>
