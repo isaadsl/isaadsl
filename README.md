@@ -67,3 +67,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse princ
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)
 
 </div>
+
+<br/>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaadsl/isaadsl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaadsl/isaadsl/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isaadsl/isaadsl/output/github-contribution-grid-snake.svg">
+</picture>
